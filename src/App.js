@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>"Secure" React App</h1>
+        <h1>Secured React App</h1>
         <p>Nobody gives a shit, dude.</p>
       </header>
       <AmplifySignOut />
